@@ -1,4 +1,4 @@
-setwd("C:\\Supriya_docs\\OneDrive - GrayMars IoT Solutions Pvt Ltd\\Supriya\\Rprog_samples\\linear_regression\\Analytics_Vidhya_Hackathon_MLR")
+
 #install.packages("data.table")
 library(data.table)     # used for reading and manipulation of data
 library(cowplot)
